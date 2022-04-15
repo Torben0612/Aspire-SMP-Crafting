@@ -1,0 +1,6 @@
+name: Aspirecrafting
+version: '${project.version}'
+main: xyz.aspirenetwork.aspirecrafting.Aspirecrafting
+api-version: 1.16
+authors: [ Torben ]
+website: www.aspirenetwork.xyz
